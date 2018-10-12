@@ -1,5 +1,5 @@
 # ASEImageLab
-##ASE Lab about creating images using C++
+## ASE Lab about creating images using C++
 
 -step one we created our github repo then cloned it
 -we now modify the readme.md file and are going to update the repo
